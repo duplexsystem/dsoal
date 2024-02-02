@@ -1,5 +1,5 @@
 # DSOAL
-
+ 
 This project is for a DirectSound DLL replacement. It implements the
 DirectSound interfaces by translating the calls to OpenAL, and fools
 applications into thinking there is a hardware accelerated sound device. EAX is
